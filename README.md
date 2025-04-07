@@ -1,4 +1,4 @@
-"""# OmniEcon Nexus: Global Microeconomic Simulation Engine
+# OmniEcon Nexus: Global Microeconomic Simulation Engine
 
 `OmniEcon Nexus` is an open-source, high-performance simulation engine for global microeconomic and macroeconomic analysis. Built with advanced deep learning, agent-based modeling, and optimization techniques, it enables detailed forecasting, risk analysis, policy generation, and portfolio optimization. This system supports up to 5 million agents and is designed as a comprehensive tool for governments, researchers, and developers to explore economic dynamics.
 
