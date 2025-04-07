@@ -154,5 +154,4 @@ We welcome your ideas and contributions!
 Feel free to **submit pull requests** or **open issues** to improve the engine further.
 
 Let’s evolve economic simulation together 🌍.
-## BSC Wallet :
-0xa5A79ed3eAb91Ea669b1DeC48fbe9aFbe4781dA2
+
