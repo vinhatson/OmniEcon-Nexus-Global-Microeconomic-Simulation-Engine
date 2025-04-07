@@ -71,7 +71,9 @@
   pip install numpy cupy-cuda11x pandas torch yfinance hmmlearn scipy networkx tweepy filterpy scikit-learn annoy requests
 ## Usage
 
- Prepare Input Data
+### Prepare Input Data
+
+### Prepare Input Data
 
 ```python
 nations = [
@@ -89,6 +91,7 @@ nations = [
         }
     }
 ]
+```
 ## 📤 Outputs
 
 ### Files
