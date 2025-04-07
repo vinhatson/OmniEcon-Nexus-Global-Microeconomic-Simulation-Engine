@@ -1,0 +1,9 @@
+{
+  "worldbank": "your_worldbank_api_key",
+  "twitter_consumer_key": "your_twitter_consumer_key",
+  "twitter_consumer_secret": "your_twitter_consumer_secret",
+  "twitter_access_token": "your_twitter_access_token",
+  "twitter_access_token_secret": "your_twitter_access_token_secret",
+  "google_trends_api_key": "your_google_trends_api_key",
+  "quandl_api_key": "your_quandl_api_key"
+}
