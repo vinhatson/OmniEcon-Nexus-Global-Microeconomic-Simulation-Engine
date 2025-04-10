@@ -1,0 +1,76 @@
+Simulation Results for Vietnam (Date: 2025-04-10)
+Day 1 (t=0.0):
+  Short-Term Prediction: 0.0123
+  Mid-Term Prediction: 0.0178
+  Resilience: 0.523
+  PMI: 0.487
+  Volatility: 0.0342
+
+Day 2 (t=1.0):
+  Short-Term Prediction: -0.0089
+  Mid-Term Prediction: -0.0145
+  Resilience: 0.498
+  PMI: 0.512
+  Volatility: 0.0287
+
+Day 3 (t=2.0):
+  Short-Term Prediction: 0.0076
+  Mid-Term Prediction: 0.0092
+  Resilience: 0.536
+  PMI: 0.495
+  Volatility: 0.0413
+
+Day 4 (t=3.0):
+  Short-Term Prediction: 0.0154
+  Mid-Term Prediction: 0.0221
+  Resilience: 0.514
+  PMI: 0.503
+  Volatility: 0.0378
+
+Day 5 (t=4.0):
+  Short-Term Prediction: -0.0042
+  Mid-Term Prediction: -0.0079
+  Resilience: 0.529
+  PMI: 0.489
+  Volatility: 0.0321
+
+Portfolio Optimization for Vietnam - Day 5 (t=4.0):
+  Expected Return (ER): -0.005865
+  Stocks: 18.3%
+  Bonds: 38.7%
+  Gold: 20.6%
+  Cash: 22.4%
+  Sharpe Ratio: -0.812
+
+Reflect Economy for Vietnam - Day 5 (t=4.0):
+  Predicted Value: Short-Term=-0.0042, Mid-Term=-0.0079
+  Volatility: 6.75e+10
+  Stability: 0.667
+  Resilience: 0.529
+  Cultural Depth: 0.500
+  Portfolio: Stocks=18.3%, Bonds=38.7%, Gold=20.6%, Cash=22.4%
+  Insight: Market in Vietnam: PMI=0.489, SRS=0.342, Consumption State=normal
+  Consumption: Base=6.75e+08, Luxury=0.00e+00, Debt=0.00e+00, Durable=0.00e+00
+
+Reflexive Policy Suggestion for Vietnam - Day 5:
+  Action: education_reform
+  Param: 0.02
+  Duration: 24 months
+  Target: all
+  Confidence: 0.80
+Simulation Results for Vietnam (Days 6-10):
+Day 6 (t=5.0):
+  Short-Term: -0.0042, Mid-Term: -0.0079
+  Resilience: 0.529, Volatility: 6.75e+10
+Day 7 (t=6.0):
+  Short-Term: -0.0042, Mid-Term: -0.0079
+  Resilience: 0.529, Volatility: 6.75e+10
+Day 8 (t=7.0):
+  Short-Term: -0.0042, Mid-Term: -0.0079
+  Resilience: 0.529, Volatility: 6.75e+10
+Day 9 (t=8.0):
+  Short-Term: -0.0042, Mid-Term: -0.0079
+  Resilience: 0.529, Volatility: 6.75e+10
+Day 10 (t=9.0):
+  Short-Term: -0.0042, Mid-Term: -0.0079
+  Resilience: 0.529, Volatility: 6.75e+10
